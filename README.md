@@ -199,7 +199,7 @@ Todas son de tipo *Custom Query* (KQL) sobre `logs-windows.*`, con ejecución ca
 ## 📄 Documentación completa
 
 - 📘 [Informe técnico completo](./docs/Informe_final_Nullsec.pdf) — instalación, configuración, troubleshooting y comandos completos de cada componente
-- 🖥️ [Presentación final](./docs/Presentacion_final_Nullsec.pdf)
+- 🖥️ [Presentación final](https://github.com/Zkarx24/Proyecto-Final-NullSec/blob/main/Presentacion_final_Nullsec.pdf)
 
 ---
 
